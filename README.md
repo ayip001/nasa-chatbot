@@ -38,7 +38,7 @@ By providing a more organic interface for data enthusiasts and researchers alike
 
 Due to time constraints, we only incorporated one sample dataset: "Active Fire Data." 
 The dataset in use is scaled down because it's limited by Google geocode query limit.
-Slight inprecision on the neighboring State long-lat.
+Slight imprecision on the neighboring State long-lat.
 Although the Assistance is powered by API.AI, which supports native machine learning and constantly improves itself, the Assistance is still in its infancy and might not reply as well as a trained Assistance.
 
 ## Down the road
