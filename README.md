@@ -1,5 +1,5 @@
 # Ask NASA
-### PLACEHOLDER PUNCHLINE
+### Making NASA data accessible to anyone at anytime and anywhere.
 
 Presentation: https://docs.google.com/presentation/d/1T8YvBAZVBxI0xmD8nu6K7NUw_h3TgHr1sgtt-XlMvzY
 Access: Facebook search for page "Ask NASA", send an inquiry!
